@@ -21,7 +21,7 @@ To develop the plugin, follow these steps:
 2. Clone the repository.
 
 ```bash
-git clone https://github.com/{Your repository}/plugin-example-inven-collector.git
+git clone https://github.com/andy000923/plugin-example-inven-collector.git
 cd plugin-example-inven-collector
 ```
 
